@@ -1,4 +1,4 @@
-# Dessrt Tour App
+# Dessert Tour App
 
 Dessert Tour is an iOS app I created that allows users to navigate and explore delicious dessert recipes from around the world. With an integration of API responses, users can browse desserts, and access detailed information about each dessert.
 
